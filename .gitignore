@@ -1,0 +1,17 @@
+# Local environment
+.venv/
+.env
+
+# Local tool config/cache
+.ultralytics/
+Ultralytics/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model weights and outputs
+*.pt
+runs/
+outputs/
+*.log
